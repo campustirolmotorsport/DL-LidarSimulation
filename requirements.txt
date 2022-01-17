@@ -1,0 +1,4 @@
+opencv-python
+mkdocstrings
+mkdocs-material
+python-markdown-math
